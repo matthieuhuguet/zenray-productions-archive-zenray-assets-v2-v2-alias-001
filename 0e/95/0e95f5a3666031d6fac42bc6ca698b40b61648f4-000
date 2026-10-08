@@ -1,0 +1,9 @@
+---
+name: zenray-assets-v2
+description: Compatibilité du nom historique Assets V2. Utiliser le skill canonique zenray-assets pour initialisation, mapping, feedback intégré, archives, LOAD/UNLOAD et développement du service.
+---
+
+# Compatibilité Assets V2 (7 October 2026)
+
+- Lire et appliquer [zenray-assets](../zenray-assets/SKILL.md), point d’entrée canonique depuis le 7 October 2026. Le nom du projet zenray-assets-v2 et toutes les identités de session restent inchangés. (7 October 2026)
+- Le programme et le writer de feedback restent uniques. Aucun moteur historique n’est réinstallé. La définition complète précédente est conservée intégralement dans [AssetsV2History.md](../zenray-assets/references/AssetsV2History.md). (7 October 2026)
